@@ -1,1 +1,106 @@
+# from turtle import *
+# screensize (10000,10000)
+# tracer(0)
+# lt(90)
+# m = 10
+# for i in range(2):
+#     fd(20 * m)
+#     lt(270)
+#     fd(12 * m)
+#     rt(90)
+# up()
+# fd(9 * m)
+# rt(90)
+# fd(7 * m)
+# lt(90)
+# down()
+# for i in range(2):
+#     fd(13 * m)
+#     rt(90)
+#     fd(6 * m)
+#     rt(90)
+# for x in range(7, 13):
+#     for y in range(9, 21):
+#         teleport(x * m, y * m)
+#         dot(3, 'red')
+# update()
+# done()
+# print((22 - 10)*(14 - 8))
+# print(21*12)
+# print(14*7)
 
+# from turtle import *
+# screensize(10000,10000)
+# tracer(0)
+# lt(90)
+# m = 10
+# for i in range(3):
+#     fd(3 * m)
+#     rt(90)
+#     fd(4 * m)
+#     lt(90)
+# rt(180)
+# fd(9 * m)
+# rt(90)
+# fd(12 * m)
+# up()
+# bk(2 * m)
+# lt(90)
+# down()
+# for i in range(3):
+#     fd(2 * m)
+#     lt(90)
+#     fd(3 * m)
+#     rt(90)
+# lt(180)
+# fd(8 * m)
+# lt(90)
+# fd(9 * m)
+# lt(90)
+# fd(2 * m)
+#
+# for x in range(2, 12):
+#     for y in range(0, 3):
+#         teleport(x * m, y * m)
+#         dot(3, 'red')
+# print(9 * 2)
+# update()
+# done()
+#
+
+
+# Повтори 9 [Вперёд 17 Налево 90 Вперед 8 Налево 90 Вперёд 17]
+# Поднять хвост
+# Налево 90 Вперед 3 Направо 90 Вперёд 5 Налево 90
+# Опустить хвост
+# Повтори 4 [Вперёд 97 Направо 90 Вперёд 132 Направо 90]
+
+# from turtle import *
+# screensize(10000, 10000)
+# tracer(0)
+# m = 10
+# for i in range(9):
+#     fd(17 * m)
+#     lt(90)
+#     fd(8 * m)
+#     lt(90)
+#     fd(17 * m)
+# up()
+# lt(90)
+# fd(3 * m)
+# rt(90)
+# fd(5 * m)
+# lt(90)
+# down()
+# for i in range(4):
+#     fd(97 * m)
+#     rt(90)
+#     fd(132 * m)
+#     rt(90)
+# for x in range(-17,-4):
+#     for y in range(0,6):
+#         teleport(x * m, y * m)
+#         dot(3, 'red')
+# print(((-3 + 16)*2)+((7 + 1)*2))
+# update()
+# done()
